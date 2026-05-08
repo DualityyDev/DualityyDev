@@ -58,6 +58,21 @@
 <br>
 
 <p align="center">
+  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/topprojects.png" alt="Top Projects" width="100%">
+</p>
+
+<p align="center">
+  <a href="https://github.com/zGravity123/Learning-Path">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=Learning-Path&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Learning Path" />
+  </a>
+  <a href="https://github.com/JDS-py/Studies">
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDS-py&repo=Studies&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Studies" />
+  </a>
+</p>
+
+<br>
+
+<p align="center">
   <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/gitstats.png" alt="GitHub Stats" width="100%">
 </p>
 
