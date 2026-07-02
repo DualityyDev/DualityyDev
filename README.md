@@ -62,8 +62,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/zGravity123/Learning-Path">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=zGravity123&repo=Learning-Path&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Learning Path" />
+
   </a>
   <a href="https://github.com/JDS-py/Studies">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDS-py&repo=Studies&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Studies" />
