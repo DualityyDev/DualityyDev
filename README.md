@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Status-EM%20MANUTENÇÃO-orange?style=for-the-badge&logo=git&logoColor=white" alt="Em Manutenção" />
+  <img src="https://img.shields.io/badge/Status-EM%20MANUTENÇÃO-orange?style=for-the-badge&logo=git&logoColor=white" alt="offline for while" />
 </p>
 
 <br>
