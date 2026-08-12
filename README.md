@@ -79,13 +79,7 @@
   <img src="https://img.shields.io/badge/Stats-A_PROCESSAR_DADOS-blue?style=for-the-badge&logo=github&logoColor=white" alt="Stats em Manutenção" />
 </p>
 
-<p align="center">
-  <picture>
-    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake-dark.svg">
-    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake.svg">
-    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake.svg" width="100%">
-  </picture>
-</p>
+
 
 <br>
 
@@ -94,8 +88,11 @@
 </p>
 
 <p align="center">
-  <img src="https://img.shields.io/badge/Snake-EM_CONSTRUÇÃO-orange?style=for-the-badge&logo=githubactions&logoColor=white" alt="Snake em Manutenção" />
-</p>
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake-dark.svg">
+    <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake.svg">
+    <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake.svg" width="100%">
+  </picture>
 
 <br>
 
