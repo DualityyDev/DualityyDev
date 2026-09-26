@@ -1,11 +1,11 @@
 <p align="center">
-  <a href="https://github.com/JDS-py">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I+am+JDS;Software+Developer;Always+Learning" alt="Typing SVG" />
+  <a href="https://github.com/DualityyDev">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I+am+DualityyDev;Software+Developer;Always+Learning" alt="Typing SVG" />
   </a>
 </p>
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=JDS-py&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=DualityyDev&label=Profile%20Views&color=0e75b6&style=flat-square" alt="Profile Views" />
 </p>
 
 <br>
@@ -23,7 +23,7 @@
         <li><b>A construir:</b> Projetos Open Source e ferramentas de automação</li>
         <li><b>Foco:</b> Desenvolvimento de Software (Geral)</li>
         <li><b>Em Aprendizado:</b> Lógica com Pascalzim e C</li>
-        <li><b>Portefólio:</b> <a href="https://github.com/JDS-py">github.com/JDS-py</a></li>
+        <li><b>Portefólio:</b> <a href="https://github.com/DualityyDev">github.com/DualityyDev</a></li>
       </ul>
     </td>
     <td width="35%" align="center" style="padding: 20px;">
