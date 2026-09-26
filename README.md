@@ -101,7 +101,7 @@
 </p>
 
 <p align="center">
-  <a href="https://github.com/JDS-py">
-    <img src="https://img.shields.io/badge/GitHub-JDS--py-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contact" />
+  <a href="https://github.com/DualityyDev">
+    <img src="https://img.shields.io/badge/GitHub-DualityyDev-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Contact" />
   </a>
 </p>
