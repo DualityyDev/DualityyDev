@@ -1,3 +1,9 @@
+<p align="right">
+  <a href="./README.pt.md"><img src="https://img.shields.io/badge/PT-Portugu%C3%AAs-2ea44f?style=flat-square" alt="Português" /></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/EN-English-gray?style=flat-square" alt="English" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/ES-Espa%C3%B1ol-gray?style=flat-square" alt="Español" /></a>
+</p>
+
 <p align="center">
   <a href="https://github.com/DualityyDev">
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I+am+DualityyDev;Software+Developer;Always+Learning" alt="Typing SVG" />
