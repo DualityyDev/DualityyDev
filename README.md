@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DualityyDev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Sou+DualityyDev;Desenvolvedor+de+Software;Sempre+Aprendendo" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Sou+DualityyDev;Um+Desenvolvedor;Sempre+Aprendendo" alt="Typing SVG" />
   </a>
 </p>
 
