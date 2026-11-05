@@ -1,6 +1,6 @@
 <p align="center">
   <a href="https://github.com/DualityyDev">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=I+am+DualityyDev;Software+Developer;Always+Learning" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=700&size=35&pause=1000&color=2196F3&center=true&vCenter=true&width=500&lines=Sou+DualityyDev;Desenvolvedor+de+Software;Sempre+Aprendendo" alt="Typing SVG" />
   </a>
 </p>
 
@@ -22,7 +22,7 @@
       <ul style="line-height: 1.8;">
         <li><b>A construir:</b> Projetos Open Source e ferramentas de automação</li>
         <li><b>Foco:</b> Desenvolvimento de Software (Geral)</li>
-        <li><b>Em Aprendizado:</b> Lógica com Pascalzim e C</li>
+        <li><b>Em Aprendizado:</b> C++ HTML Visual Basic CSS JavaScript</li>
         <li><b>Portefólio:</b> <a href="https://github.com/DualityyDev">github.com/DualityyDev</a></li>
       </ul>
     </td>
@@ -39,7 +39,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Status-Offline for while-orange?style=for-the-badge&logo=github&logoColor=white" alt="Status Operacional" />
+ <img src="https://img.shields.io/badge/Status-Offline+por+um+tempo-orange?style=for-the-badge&logo=github&logoColor=white" alt="Status Operacional" />
 </p>
 
 <br>
@@ -51,7 +51,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Pascalzim-000080?style=for-the-badge&logo=pascal&logoColor=white" alt="Pascalzim" style="vertical-align: top; margin-right: 5px;" />
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=c,python,linux,github&theme=dark" alt="My Skills" />
+    <img src="https://skillicons.dev/icons?i=c,python,linux,github,js,cpp,css,html,docker,nodejs,visualstudio,vscode,windows&theme=dark" alt="My Skills" />
   </a>
 </p>
 
@@ -62,8 +62,6 @@
 </p>
 
 <p align="center">
-
-  </a>
   <a href="https://github.com/JDS-py/Studies">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDS-py&repo=Studies&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Studies" />
   </a>
@@ -79,8 +77,6 @@
   <img src="https://img.shields.io/badge/Stats-A_PROCESSAR_DADOS-blue?style=for-the-badge&logo=github&logoColor=white" alt="Stats em Manutenção" />
 </p>
 
-
-
 <br>
 
 <p align="center">
@@ -93,6 +89,7 @@
     <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake.svg">
     <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/JDS-py/zGravity123/output/github-contribution-grid-snake.svg" width="100%">
   </picture>
+</p>
 
 <br>
 
