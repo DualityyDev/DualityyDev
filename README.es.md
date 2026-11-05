@@ -1,7 +1,7 @@
 <p align="right">
-  <a href="./README.md"><img src="https://img.shields.io/badge/PT-Portugu%C3%AAs-2ea44f?style=flat-square" alt="Português" /></a>
+  <a href="./README.md"><img src="https://img.shields.io/badge/PT-Portugu%C3%AAs-gray?style=flat-square" alt="Português" /></a>
   <a href="./README.eng.md"><img src="https://img.shields.io/badge/EN-English-gray?style=flat-square" alt="English" /></a>
-  <a href="./README.es.md"><img src="https://img.shields.io/badge/ES-Espa%C3%B1ol-gray?style=flat-square" alt="Español" /></a>
+  <a href="./README.es.md"><img src="https://img.shields.io/badge/ES-Espa%C3%B1ol-FFFF00?style=flat-square" alt="Español" /></a>
 </p>
 
 <p align="center">
