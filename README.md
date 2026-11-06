@@ -45,7 +45,7 @@
 </p>
 
 <p align="center">
- <img src="https://img.shields.io/badge/Status-Offline+por+um+tempo-orange?style=for-the-badge&logo=github&logoColor=white" alt="Status Operacional" />
+ <img src="https://lanyard.cnrad.dev/api/1027173647577788438?theme=dark&idleMessage=Provavelmente%20a%20aproveitar%20a%20vida!" alt="Status Operacional" />
 </p>
 
 <br>
