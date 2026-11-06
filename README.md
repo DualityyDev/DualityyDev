@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/aboutme.png" alt="About Me" width="100%">
+  <img src="imagens/aboutme.png" alt="About Me" width="100%">
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/livestatus.png" alt="Live Status" width="100%">
+  <img src="imagens/livestatus.png" alt="Live Status" width="100%">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/tech.png" alt="Tech Stack & Tools" width="100%">
+  <img src="imagens/tech.png" alt="Tech Stack & Tools" width="100%">
 </p>
 
 <p align="center">
@@ -64,19 +64,19 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/topprojects.png" alt="Top Projects" width="100%">
+  <img src="imagens/topprojects.png" alt="Top Projects" width="100%">
 </p>
 
 <p align="center">
   <a href="https://github.com/JDS-py/Studies">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=JDS-py&repo=Studies&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Studies" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=DualityyDev&repo=Studies&theme=dracula&hide_border=true&title_color=2196F3" width="45%" alt="Studies" />
   </a>
 </p>
 
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/gitstats.png" alt="GitHub Stats" width="100%">
+  <img src="imagens/gitstats.png" alt="GitHub Stats" width="100%">
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/contributions.png" alt="Contributions" width="100%">
+  <img src="imagens/contributions.png" alt="Contributions" width="100%">
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/contact.png" alt="Contact" width="100%">
+  <img src="imagens/contact.png" alt="Contact" width="100%">
 </p>
 
 <p align="center">
