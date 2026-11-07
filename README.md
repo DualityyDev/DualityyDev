@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/aboutme.png" alt="About Me" width="100%">
+  <img src="imagens/pt/Sobre mim.png" alt="About Me" width="100%">
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/livestatus.png" alt="Live Status" width="100%">
+  <img src="imagens/pt/Estado.png" alt="Live Status" width="100%">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/tech.png" alt="Tech Stack & Tools" width="100%">
+  <img src="imagens/pt/Tecnologias e ferramentas.png" alt="Tech Stack & Tools" width="100%">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/topprojects.png" alt="Top Projects" width="100%">
+  <img src="imagens/pt/Projetos em destaque.png" alt="Top Projects" width="100%">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/gitstats.png" alt="GitHub Stats" width="100%">
+  <img src="imagens/pt/Atividade recente.png" alt="GitHub Stats" width="100%">
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/contributions.png" alt="Contributions" width="100%">
+  <img src="imagens/pt/Contribuições.png" alt="Contributions" width="100%">
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@
 <br>
 
 <p align="center">
-  <img src="imagens/contact.png" alt="Contact" width="100%">
+  <img src="imagens/pt/Contacto.png" alt="Contact" width="100%">
 </p>
 
 <p align="center">
