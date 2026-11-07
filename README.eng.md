@@ -17,7 +17,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/aboutme.png" alt="About Me" width="100%">
+  <img src="imagens/eng/aboutme.png" alt="About Me" width="100%">
 </p>
 
 <br>
@@ -41,7 +41,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/livestatus.png" alt="Live Status" width="100%">
+  <img src="imagens/eng/livestatus.png" alt="Live Status" width="100%">
 </p>
 
 <p align="center">
@@ -51,7 +51,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/tech.png" alt="Tech Stack & Tools" width="100%">
+  <img src="imagens/eng/tech.png" alt="Tech Stack & Tools" width="100%">
 </p>
 
 <p align="center">
@@ -64,7 +64,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/topprojects.png" alt="Top Projects" width="100%">
+  <img src="imagens/eng/topprojects.png" alt="Top Projects" width="100%">
 </p>
 
 <p align="center">
@@ -76,7 +76,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/gitstats.png" alt="GitHub Stats" width="100%">
+  <img src="imagens/eng/gitstats.png" alt="GitHub Stats" width="100%">
 </p>
 
 <p align="center">
@@ -86,7 +86,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/contributions.png" alt="Contributions" width="100%">
+  <img src="imagens/eng/contributions.png" alt="Contributions" width="100%">
 </p>
 
 <p align="center">
@@ -100,7 +100,7 @@
 <br>
 
 <p align="center">
-  <img src="https://raw.githubusercontent.com/zGravity123/zGravity123/main/images/contact.png" alt="Contact" width="100%">
+  <img src="imagens/eng/contact.png" alt="Contact" width="100%">
 </p>
 
 <p align="center">
